@@ -27,16 +27,17 @@
 3. Run `GenocideEgg.exe` (Windows) or the appropriate executable for your OS
 
 ## 🖼️ Screenshots
-![Screenshot (2855)](https://github.com/user-attachments/assets/996ca228-76d9-4bf5-917e-46bddec93d51) 
-![Screenshot (2858)](https://github.com/user-attachments/assets/9facc08d-d5ec-44c4-ab31-6e5282c2d0ac)
-![Screenshot (2859)](https://github.com/user-attachments/assets/6357e571-1f21-42f1-9d86-ca2badeeac50)
+| ![Screenshot (2855)](https://github.com/user-attachments/assets/6f401e41-1a96-4eba-a115-2cfa8a70d9e5) | ![Screenshot (2856)](https://github.com/user-attachments/assets/972868e7-b1b2-4b16-b018-dba65b6740cd) |
+|-------------------------------------|-------------------------------------|
+| *Main Menu.*             | *Credits.*                |
+
+| ![Screenshot (2858)](https://github.com/user-attachments/assets/fbac4119-246c-4c2e-8eef-cb817b390a6e) | ![Screenshot (2859)](https://github.com/user-attachments/assets/07b79e9c-217a-4f42-b633-d34f715b61a7) |
 |-------------------------------------|-------------------------------------|
 | *Killer egg in action!*             | *Chaos everywhere.*                |
 
 ## 🙏 Credits
-- **Marvin195** - Developer, Art, Design  
-- **Indie Tea House Club (ITHC)** - Game Jam Host  
-- **FreeSound/OpenGameArt** - Some sound assets  
+- **Nanang Marvin** - Developer and Design
+- **Aryaneta T** - Art
 
 ## 📜 License
 This project is **open-source** (if code is available). Feel free to modify as long as you give credit.  
