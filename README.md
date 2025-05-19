@@ -27,7 +27,9 @@
 3. Run `GenocideEgg.exe` (Windows) or the appropriate executable for your OS
 
 ## 🖼️ Screenshots
-| ![Screenshot (2855)](https://github.com/user-attachments/assets/996ca228-76d9-4bf5-917e-46bddec93d51) | ![Screenshot (2858)](https://github.com/user-attachments/assets/9facc08d-d5ec-44c4-ab31-6e5282c2d0ac) | ![Screenshot (2859)](https://github.com/user-attachments/assets/6357e571-1f21-42f1-9d86-ca2badeeac50) |
+![Screenshot (2855)](https://github.com/user-attachments/assets/996ca228-76d9-4bf5-917e-46bddec93d51) 
+![Screenshot (2858)](https://github.com/user-attachments/assets/9facc08d-d5ec-44c4-ab31-6e5282c2d0ac)
+![Screenshot (2859)](https://github.com/user-attachments/assets/6357e571-1f21-42f1-9d86-ca2badeeac50)
 |-------------------------------------|-------------------------------------|
 | *Killer egg in action!*             | *Chaos everywhere.*                |
 
