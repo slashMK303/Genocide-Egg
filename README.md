@@ -1,6 +1,7 @@
 # Genocide Egg 🥚💀
 
-![Genocide Egg Cover Image](https://img.itch.zone/aW1nLzEzNjQwNDM1LnBuZw==/315x250%23c/4iBQ%2BY.png)  
+![Banner](https://github.com/user-attachments/assets/7d59c5d2-cb54-4cad-b242-6ff0fde5c486)
+
 *A darkly humorous and chaotic egg-based action game.*
 
 ## 📖 Description
@@ -26,7 +27,7 @@
 3. Run `GenocideEgg.exe` (Windows) or the appropriate executable for your OS
 
 ## 🖼️ Screenshots
-| ![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTk0NjQ0MC8xMTM5NjQ0OS5wbmc=/347x500/7mh%2B%2Bd.png) | ![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTk0NjQ0MC8xMTM5NjQ1MC5wbmc=/347x500/%2F%2F%2FQk.png) |
+| ![Screenshot (2855)](https://github.com/user-attachments/assets/996ca228-76d9-4bf5-917e-46bddec93d51) | ![Screenshot (2858)](https://github.com/user-attachments/assets/9facc08d-d5ec-44c4-ab31-6e5282c2d0ac) | ![Screenshot (2859)](https://github.com/user-attachments/assets/6357e571-1f21-42f1-9d86-ca2badeeac50) |
 |-------------------------------------|-------------------------------------|
 | *Killer egg in action!*             | *Chaos everywhere.*                |
 
