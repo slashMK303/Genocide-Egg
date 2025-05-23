@@ -40,8 +40,7 @@
 - **Aryaneta T** - Art
 
 ## 📜 License
-This project is **open-source** (if code is available). Feel free to modify as long as you give credit.  
-🔹 **Note**: Some assets (like music/images) may have separate licenses.
+This repository is licensed under the [MIT License](LICENSE) — feel free to use and modify it with proper attribution.
 
 ---
 
